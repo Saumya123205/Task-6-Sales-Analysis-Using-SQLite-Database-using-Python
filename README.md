@@ -1,4 +1,5 @@
 # 📊 Sales Data Analysis using SQLite & Python
+<img width="360" height="500" alt="image" src="https://github.com/user-attachments/assets/219a3c1a-94db-46ba-8b0e-6601427fd991" />
 
 ## 📌 Project Overview
 
@@ -82,3 +83,7 @@
 ### Replicate strategies from best sales days (e.g., promotions, discounts).
 
 ### Ensure stock availability for high-demand items like Headphones.
+
+## 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/)
